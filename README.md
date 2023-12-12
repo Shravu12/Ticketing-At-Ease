@@ -1,6 +1,6 @@
-# Bus Pass Management System
+# Ticketing At Ease System
 
-Bus pass management system is a website system which has been designed specially for the admin to create instant bus pass, update, maintain and provide the various types of bus passes based upom user requirements. Once all the required information and photo received from the user, the admin can fill the pass details and generate a new bus pass. Once the bus pass has been generated, admin can print or download the bus pass and provide it to users. The system has search function also, to filter & view for any particular user info. 
+Ticketing At Ease system is a website system which has been designed specially for the admin to create instant bus pass, update, maintain and provide the various types of bus passes based upom user requirements. Once all the required information and photo received from the user, the admin can fill the pass details and generate a new bus pass. Once the bus pass has been generated, admin can print or download the bus pass and provide it to users. The system has search function also, to filter & view for any particular user info. 
 
 
 
